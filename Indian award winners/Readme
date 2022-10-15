@@ -1,1 +1,16 @@
 
+About Dataset
+Context
+Bharat Ratna is the highest civilian award of the country. It is awarded in recognition of exceptional service/performance of the highest order in any field of human endeavour. It is treated on a different footing from Padma Award. The recommendations for Bharat Ratna are made by the Prime Minister to the President of India. No formal recommendations for Bharat Ratna are necessary. The number of Bharat Ratna Awards is restricted to a maximum of three in a particular year. Government has conferred Bharat Ratna Award on 45 persons till date.
+
+The Padma Awards are one of the highest civilian honours of India announced annually on the eve of Republic Day. The Awards are given in three categories: Padma Vibhushan (for exceptional and distinguished service), Padma Bhushan (distinguished service of higher order) and Padma Shri (distinguished service). The award seeks to recognize achievements in all fields of activities or disciplines where an element of public service is involved.
+
+Content
+Awards - Name of Award
+Year - Year in which award was announced
+Awardee - Person/Organization that received award
+Field : Field for which award is given
+State : Recipient's state
+
+Acknowledgements
+This dataset is taken from the Indian government site Padma Award Of India.
